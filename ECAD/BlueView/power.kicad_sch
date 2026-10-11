@@ -1,0 +1,146 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e4e89086-7af6-46e8-8db5-4e549ff95c0e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 39.37 60.96)
+		(size 52.07 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "472b87c0-a0d0-4451-8062-f8f3788e3050")
+		(property "Sheetname" "Input Protection"
+			(at 39.37 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input_protection.kicad_sch"
+			(at 39.37 98.3746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f/12974eeb-0994-4bdf-bcf3-ae4fed3b4606"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 44.45)
+		(size 66.04 78.74)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d6567442-82c2-4ef0-9ae0-25d6e19cdc20")
+		(property "Sheetname" "Rails"
+			(at 168.91 43.7384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rails.kicad_sch"
+			(at 168.91 123.7746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f/12974eeb-0994-4bdf-bcf3-ae4fed3b4606"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 60.96)
+		(size 48.26 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "df070e13-e219-454f-b0ae-cdbfe43ed727")
+		(property "Sheetname" "12V Main"
+			(at 102.87 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "12vMain.kicad_sch"
+			(at 102.87 98.3746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f/12974eeb-0994-4bdf-bcf3-ae4fed3b4606"
+					(page "8")
+				)
+			)
+		)
+	)
+)

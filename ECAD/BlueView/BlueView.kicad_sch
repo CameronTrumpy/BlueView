@@ -1,0 +1,249 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4cb6f676-1489-480d-a95a-09b4fde4473f")
+	(paper "A4")
+	(title_block
+		(title "BlueView Block Diagram")
+		(rev "A0")
+		(comment 4 "Author: Cameron Trumpy")
+	)
+	(lib_symbols)
+	(sheet
+		(at 175.26 50.8)
+		(size 44.45 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "10cf0a2c-9227-47ca-997a-b470ac5a9a99")
+		(property "Sheetname" "CAN"
+			(at 175.26 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 175.26 65.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 49.53)
+		(size 35.56 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "12974eeb-0994-4bdf-bcf3-ae4fed3b4606")
+		(property "Sheetname" "Power"
+			(at 59.69 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 59.69 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 101.6)
+		(size 55.88 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "39e60dea-b53a-455a-a644-442901420f80")
+		(property "Sheetname" "Display"
+			(at 109.22 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 109.22 125.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 22.86)
+		(size 58.42 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d7e79fc6-467f-40fc-8738-977d69a31ea5")
+		(property "Sheetname" "Indicators"
+			(at 106.68 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "indicators.kicad_sch"
+			(at 106.68 41.2246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 50.8)
+		(size 39.37 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "dca7c2e2-a3b4-460c-9b83-bb16bb6f9801")
+		(property "Sheetname" "Compute"
+			(at 116.84 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "compute.kicad_sch"
+			(at 116.84 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueView"
+				(path "/4cb6f676-1489-480d-a95a-09b4fde4473f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

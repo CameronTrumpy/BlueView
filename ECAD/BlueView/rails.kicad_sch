@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8513d195-2950-4ff2-98e1-65d04f0aa608")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 146.05 36.83)
+		(end 219.71 106.68)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0e4808be-646b-4970-9a19-4aae4ec3aacc")
+	)
+	(rectangle
+		(start 30.48 36.195)
+		(end 104.14 106.045)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cbd81ffe-3849-4ebe-b150-1b62dcad73cc")
+	)
+	(text "5V\n"
+		(exclude_from_sim no)
+		(at 32.004 35.052 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "748c9545-7d51-42a6-a324-f85db8429ef2")
+	)
+	(text "18V: Display Backlight\n"
+		(exclude_from_sim no)
+		(at 156.718 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fb105cc3-e33a-4073-a4ef-7763641d9e95")
+	)
+)
